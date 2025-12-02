@@ -7,3 +7,6 @@ EmployeeServiceImpl class
 Add Oracle Dependency
 Add JPA Dependence
 Add database functionality
+Add Mysql database
+Add Workbench
+Add Dependency of MYSQL
